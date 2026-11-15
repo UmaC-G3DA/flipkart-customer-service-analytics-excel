@@ -62,7 +62,7 @@ Hypotheses were assessed using PivotTables.
 | H6: Channel and issue vs CSAT | Chatbot–Billing Questions recorded the lowest average CSAT (5.45). | Partially Supported |
 | H7: Event period vs CSAT | Average CSAT ranged from 5.48 during Navratri/Dussehra to 5.60 during Big Billion Days. | Supported |
 | H8: Event periods vs daily volume | Call volume peaked on selected dates during the analysed event periods. | Supported |
-| H9: State-wise issue volume showed the highest call volumes in Uttar Pradesh and Maharashtra. |
+| H9: | State-wise issue volume showed the highest call volumes in Uttar Pradesh and Maharashtra. |
 
 ## 7. Key Findings & Recommendations
 

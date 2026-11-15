@@ -68,7 +68,7 @@ Hypotheses were assessed using PivotTables.
 
 1. **Billing Calls:** Billing Questions accounted for 21,410 calls (71.4%). Average call duration was approximately 25 minutes across issue types. Review recurring billing queries, communication and self-service content to address avoidable contacts.
 2. **SLA Performance:** 62.5% of calls were within SLA, 24.8% below SLA and 12.7% above SLA. Since above-SLA shares were similar across channels, investigate broader operational factors rather than focusing on one channel.
-3. **Survey Coverage:** CSAT was available for 11,214 calls (37.4%). Its correlation with call duration was −0.007. Improve survey coverage and avoid using handling time alone as a measure of service quality.
+3. **Survey Coverage:** CSAT was available for 11,214 calls. Its correlation with call duration was −0.007. Improve survey coverage and avoid using handling time alone as a measure of service quality.
 4. **Customer Experience:** Chatbot–Billing Questions recorded the lowest channel–issue CSAT (5.45). Kolkata had the lowest call-centre average (5.46), while Tripura had the lowest state average (4.90). Review these areas while considering the small differences and sample size.
 5. **Call Routing & Event Readiness:** Regional allocation was not consistently aligned with customer geography. Review routing and centre capacity, and prepare support capacity, FAQs and self-service resources for major event periods.
 

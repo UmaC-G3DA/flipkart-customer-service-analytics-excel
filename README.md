@@ -62,15 +62,15 @@ Hypotheses were assessed using PivotTables.
 | H6: Channel and issue vs CSAT | Chatbot–Billing Questions recorded the lowest average CSAT (5.45). | Partially Supported |
 | H7: Event period vs CSAT | Average CSAT ranged from 5.48 during Navratri/Dussehra to 5.60 during Big Billion Days. | Supported |
 | H8: Event periods vs daily volume | Call volume peaked on selected dates during the analysed event periods. | Supported |
-| H9: | State-wise issue volume showed the highest call volumes in Uttar Pradesh and Maharashtra. |
+| H9: | State-wise issue volume showed the highest call volumes in Uttar Pradesh and Maharashtra. | 
 
 ## 7. Key Findings & Recommendations
 
-1. **Billing Calls:** Billing Questions accounted for 21,410 calls (71.4%). Average call duration was approximately 25 minutes across issue types. Review recurring billing queries, communication and self-service content to address avoidable contacts.
-2. **SLA Performance:** 62.5% of calls were within SLA, 24.8% below SLA and 12.7% above SLA. Since above-SLA shares were similar across channels, investigate broader operational factors rather than focusing on one channel.
-3. **Survey Coverage:** CSAT was available for 11,214 calls. Its correlation with call duration was −0.007. Improve survey coverage and avoid using handling time alone as a measure of service quality.
-4. **Customer Experience:** Chatbot–Billing Questions recorded the lowest channel–issue CSAT (5.45). Kolkata had the lowest call-centre average (5.46), while Tripura had the lowest state average (4.90). Review these areas while considering the small differences and sample size.
-5. **Call Routing & Event Readiness:** Regional allocation was not consistently aligned with customer geography. Review routing and centre capacity, and prepare support capacity, FAQs and self-service resources for major event periods.
+1. **State and Call-Centre Performance:** Tripura recorded the lowest state-level CSAT (4.90), while Kolkata had the lowest call-centre CSAT (5.46). Conduct targeted service-quality reviews, focusing on these areas.
+2. **Channel–Issue Performance:** Chatbot-Billing Questions recorded the lowest CSAT (5.45). Review the relevant channel–issue handling workflows to identify opportunities for improvement.
+3. **Regional Call Allocation:** Customer allocation was not consistently aligned with geographic regions. Review regional allocation patterns to identify opportunities for more effective workload distribution.
+4. **Event-Period Demand:** Customer issue volume increased around high-demand event periods. Strengthen support readiness through adequate staffing, proactive FAQs and self-service resources.
+5. **Call Duration & SLA Performance:** Issue types showed little variation in average call duration, while Above-SLA proportions varied only slightly across channels. These should not be treated as primary improvement priorities based solely on this analysis.
 
 ## 8. Project Limitations
 
@@ -80,7 +80,7 @@ Hypotheses were assessed using PivotTables.
 ## 9. Repository Structure
 
 ```text
-.
+
 ├── FLIPKART_case_study-excel.docx
 ├── DAF_-_Flipkart_Data_Project_1_-_Sheet_Raw_.csv
 ├── Flipkart_analysis_UmaC_G3_DA__SQL_Final.xlsx
@@ -90,4 +90,4 @@ Hypotheses were assessed using PivotTables.
 
 ## 11. Project Outcome
 
-An end-to-end Excel analytics project covering data preparation, exploratory analysis, hypothesis assessment and interactive dashboard reporting. The project identifies customer-service patterns and operational areas for further investigation while recognising the limitations of the available data in assessing customer retention.
+An end-to-end Excel analytics project covering data preparation, exploratory analysis, hypothesis assessment and interactive dashboard reporting to identify customer satisfaction patterns and service-performance improvement areas.
